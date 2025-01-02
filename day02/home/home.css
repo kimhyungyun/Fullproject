@@ -1,0 +1,14 @@
+.all {
+  color: white;
+  background-color: #35c5f1;
+  border-radius: 15px;
+  border: 1px solid #35c5f1;
+  padding: 6px 9px 6px 9px;
+}
+.other {
+  background-color: #e6e6e6;
+  border-radius: 15px;
+  border: 1px solid #e6e6e6;
+  font-weight: 500;
+  padding: 6px 9px 6px 9px;
+}

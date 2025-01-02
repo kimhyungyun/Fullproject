@@ -1,0 +1,65 @@
+.b1 {
+  color: white;
+  background-color: red;
+  border-radius: 30px;
+  border: none;
+  padding: 7px 10px 7px 10px;
+}
+.b2 {
+  color: white;
+  background-color: red;
+  border-radius: 30px;
+  border: none;
+  padding: 10px 20px 10px 20px;
+}
+.b3 {
+  color: white;
+  background-color: red;
+  border-radius: 30px;
+  border: none;
+  padding: 12px 100px 12px 100px;
+}
+.login1 {
+  color: white;
+  background-color: black;
+  border-radius: 30px;
+  border: 2px solid black;
+  padding: 13px 10px 13px 10px;
+  width: 280px;
+  text-align: center;
+}
+.login2 {
+  color: black;
+  background-color: white;
+  border-radius: 30px;
+  border: 2px solid black;
+  padding: 13px 10px 13px 10px;
+  width: 280px;
+  text-align: center;
+}
+.login3 {
+  color: black;
+  background-color: yellow;
+  border-radius: 5px;
+  border: 1px solid yellow;
+  padding: 13px 10px 13px 10px;
+  width: 400px;
+  text-align: center;
+  font-weight: 700;
+}
+.coupon1 {
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid gray;
+  width: 120px;
+  text-align: center;
+}
+.coupon2 {
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid gray;
+  width: 160px;
+  text-align: center;
+}

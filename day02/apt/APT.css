@@ -1,0 +1,24 @@
+.twenty {
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+  padding: 4px 12px 4px 12px;
+  font-weight: 400;
+  border: none;
+}
+.thirty {
+  color: gray;
+  background-color: white;
+  border-radius: 20px;
+  padding: 4px 12px 4px 12px;
+  font-weight: 700;
+  border: 1px solid gray;
+}
+.forty {
+  color: gray;
+  background-color: white;
+  border-radius: 20px;
+  padding: 4px 12px 4px 12px;
+  font-weight: 700;
+  border: 1px solid gray;
+}

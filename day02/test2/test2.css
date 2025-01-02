@@ -1,0 +1,19 @@
+.solo {
+  padding: 15px 0px 15px 25px;
+  color: white;
+  background-color: #3e63dd;
+  width: 300px;
+  font-size: small;
+  border-radius: 30px;
+  margin-bottom: 7px;
+  font-weight: 700;
+}
+.company {
+  padding: 15px 0px 15px 25px;
+  color: white;
+  background-color: black;
+  width: 300px;
+  font-size: small;
+  border-radius: 30px;
+  font-weight: 700;
+}
